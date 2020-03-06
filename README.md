@@ -8,7 +8,8 @@ Silahkan didownload dan dipelajari, jika masih ada yang ditanyakan bisa menghubu
 - draft-surat-pernyataan.doxc [Download](https://github.com/mexop99/SOP-Toko-Ladang/raw/master/word/draft-surat-pernyataan.docx)
 
 ## SOP Pembeli
-- sop-pembeli-v3.pptx [Download](https://github.com/mexop99/SOP-Toko-Ladang/raw/master/pptx/sop-pembeli-v3.pptx) (Recomended Download)
+- sop-pembeli-v4.pptx [Donwload](https://github.com/mexop99/SOP-Toko-Ladang/raw/master/pptx/sop-pembeli-v4.pptx) (Recomended Download)
+- sop-pembeli-v3.pptx [Download](https://github.com/mexop99/SOP-Toko-Ladang/raw/master/pptx/sop-pembeli-v3.pptx)
 - sop-pembeli-v3.pdf [Download](https://github.com/mexop99/SOP-Toko-Ladang/raw/master/pdf/sop-pembeli-v3.pdf)
 - sop-pembeli.pptx v2 [Download](https://github.com/mexop99/SOP-Toko-Ladang/raw/1f3e703ba761c4121993d0b8b4912dd51aca764e/sop-pembeli.pptx)
 
