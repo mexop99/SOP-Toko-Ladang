@@ -14,7 +14,7 @@ SO00124 // Rp. 2.500.000,-
 2. **Untuk Penarikan Dana lebih dari 5 transaksi**
 
 Untuk Penarikan Dana dengan transaksi lebih dari 5 nomor SO bisa via Whatsapp dengan mengirimkan **Rekapan excel**  adapun draft excel sudah kami  sediakan.
-[DownloadDraft]: (/excel/draft-penarikan-dana-tokoladang.xlsx)
+[DownloadDraft]: (https://github.com/mexop99/SOP-Toko-Ladang/raw/master/excel/draft-penarikan-dana-tokoladang.xlsx)
 > ![contohrekapanexcel](/img/penarikan-dana-excel.png)
 
 
