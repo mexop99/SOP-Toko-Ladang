@@ -4,8 +4,9 @@
 Komunikasi untuk penarikan dana bisa via Whatsapp dengan mengirimkan nomor transaksi, nominal transaksinya. Pastikan status pembelian sudah **“dibayar.”**
 
 Contoh chat penarikan dana:
-SO00123 // Rp. 3.000.000,-
-SO00124 // Rp. 2.500.000,-
+
+- SO00123 // Rp. 3.000.000,-
+- SO00124 // Rp. 2.500.000,-
 
 > ![contohwacs](/img/contoh-wa-cs-v1.png)
 
